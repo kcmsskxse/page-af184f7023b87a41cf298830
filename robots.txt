@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.8znixg.cn/sitemap.xml
